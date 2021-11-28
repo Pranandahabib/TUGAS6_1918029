@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TUGAS6_1918029</string>
+        <string-array name="city_list">
+            <item>MATARAM</item>
+            <item>SURABAYA</item>
+            <item>DEPOK</item>
+            <item>MALANG</item>
+            <item>BEKASI</item>
+        </string-array>
+
+    </resources>
